@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/services/ServiceUser.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/services/ServiceProduit.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/gui/Home.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/entities/Produit.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/gui/ListCommandeFront.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/utils/Statics.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/gui/AddServiceForm.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/services/ServiceReclamation.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/gui/SessionManager.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/gui/ModifProduit.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/gui/ListReclamationBack.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/gui/ModifService.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/services/ServiceBlog.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/gui/AddProduitForm.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/gui/ListCommandeForm.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/entities/Commande.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/gui/ListProduit.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/gui/HomeClient.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/entities/Service.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/gui/SignUpForm.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/gui/ListServiceFront.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/gui/AddReclamationForm.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/gui/ModifBlog.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/entities/Blog.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/gui/SignInForm.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/gui/ModifCommande.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/services/ServiceCommande.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/gui/ListServiceForm.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/gui/ListReclamationForm.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/gui/AddCommandeForm.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/gui/ListEvenements.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/gui/ListEvenementsFront.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/gui/AddEvenementForm.java</file>
+            <file>file:/Users/MrStealYourMom/Desktop/PIDEV_MOBILE_INTEGRATION/src/com/mycompany/services/ServiceService.java</file>
+        </group>
+    </open-files>
+</project-private>
